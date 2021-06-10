@@ -1,2 +1,2 @@
-# ed
+# edu
 this is demo repository
