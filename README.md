@@ -9,5 +9,5 @@ commit
 
 ~~strike through~~
 
-use `git staus` to view all new and modified files that haven't been commited
-the site was built usiing [github pages](https://pages.github.com/).
+use `git staus` to view all new and modified files that haven't been commited. 
+The site was built usiing [github pages](https://pages.github.com/).
