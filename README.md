@@ -4,5 +4,7 @@ this is demo repository
 commit
 
 > quote
+
 ~~strike through~~
+
 use `git staus` to view all new and modified files that haven't been commited
