@@ -22,3 +22,14 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 |------|-------|
 |table3|table4|
 |table5|table6|
+
+# collapsed section
+<details><summary>CLICK ME</summary>
+  <p>
+  #### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+  </p>
+  </details>
