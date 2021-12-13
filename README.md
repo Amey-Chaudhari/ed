@@ -33,5 +33,3 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
     ```
   </p>
   </details>
-  
-  ![d](https://user-images.githubusercontent.com/64803502/145816990-29ca4635-a7cf-4900-a325-5dd92e908b72.jpg)
