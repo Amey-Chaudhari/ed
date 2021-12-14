@@ -24,7 +24,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 |table5|table6|
 
 |t7|t8|
-
+|----|----|
 # collapsed section
 <details><summary>CLICK ME</summary>
   <p>
