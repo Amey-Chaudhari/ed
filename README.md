@@ -30,7 +30,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
   #### We can hide anything, even code!
 
     ```ruby
-      puts "Hello World"
+      puts "Hello World!"
     ```
   </p>
   </details>
