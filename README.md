@@ -1,4 +1,4 @@
-# edu
+# example
 ## edu
 ### edu
 this is demo repository
